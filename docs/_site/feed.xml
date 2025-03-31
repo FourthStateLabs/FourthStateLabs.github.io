@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-03-31T20:23:19+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Fourth State Labs</title><subtitle>Specialized providers of cutting-edge plasma physics simulation solutions and software expertise.</subtitle><entry><title type="html">Welcome to Fourth State Labs</title><link href="http://localhost:4000/jekyll/update/2025/03/30/Welcome-to-FourthStateLabs.html" rel="alternate" type="text/html" title="Welcome to Fourth State Labs" /><published>2025-03-30T20:33:00+01:00</published><updated>2025-03-30T20:33:00+01:00</updated><id>http://localhost:4000/jekyll/update/2025/03/30/Welcome-to-FourthStateLabs</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2025/03/30/Welcome-to-FourthStateLabs.html"><![CDATA[<p>We are here to help you with your plasma simulation needs.</p>
+
+<h2 id="our-focus">Our Focus</h2>
+<ul>
+  <li>Development of specialized plasma simulation frameworks</li>
+  <li>Implementation of advanced numerical methods for plasma physics</li>
+  <li>Creation of optimized software solutions for high-performance computing environments</li>
+  <li>Integration of modern computational techniques with plasma physics principles</li>
+</ul>
+
+<h2 id="core-expertise">Core Expertise</h2>
+<ul>
+  <li>Particle-In-Cell (PIC) simulations</li>
+  <li>Fluid dynamics modeling</li>
+  <li>Electromagnetic calculations</li>
+  <li>Linear Maxwell Vlasov calculations</li>
+  <li>Linear MHD calculations</li>
+  <li>High-performance computing optimization</li>
+  <li>Parallel processing implementations</li>
+</ul>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[We are here to help you with your plasma simulation needs.]]></summary></entry></feed>
